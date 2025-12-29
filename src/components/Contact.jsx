@@ -5,22 +5,22 @@ function Contact() {
       icon: "📧",
       title: "Email",
       value: "jari.kovalainen@laurea.fi",
-      href: "mailto:jari.kovalainen@laurea.fi"
+      href: "mailto:jari.kovalainen@laurea.fi",
     },
     {
       id: 2,
       icon: "💼",
       title: "LinkedIn",
       value: "View Profile",
-      href: "https://linkedin.com"
+      href: "https://www.linkedin.com/in/jarikovalainen/",
     },
     {
       id: 3,
       icon: "🐙",
       title: "GitHub",
       value: "View Repository",
-      href: "https://github.com"
-    }
+      href: "https://github.com/Laurea-ammattikorkeakoulu-Tikkurila",
+    },
   ];
 
   return (
